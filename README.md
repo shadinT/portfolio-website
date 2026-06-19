@@ -1,4 +1,4 @@
-# Shadin Web Studio
+# Web Studio
 
 A professional portfolio and business website designed for deployment on GitHub Pages.
 
